@@ -2,6 +2,8 @@
 
 A Full Stack Developer | Javascript enthisiast. Experience with the technologies listed in the **toolbox** below.
 
+---
+
 Frontend:
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -30,6 +32,7 @@ Other:
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
 
+---
 
 📘 Latest Blog Articles
 
@@ -39,6 +42,8 @@ Other:
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/przpiw)
+
+---
 
 ## &#x1f4c8; My GitHub Stats
 
