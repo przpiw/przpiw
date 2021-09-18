@@ -44,7 +44,7 @@ Other:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przpiw&hide=java,html,css&theme=radical&layout=compact)](https://github.com/przpiw/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=przpiw&theme=radical&count_private=true&show_icons=true)](https://github.com/przpiw/github-readme-stats)
+[![Damians's GitHub stats](https://github-readme-stats.vercel.app/api?username=przpiw&theme=radical&count_private=true&show_icons=true)](https://github.com/przpiw/github-readme-stats)
 
 
 
