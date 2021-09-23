@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Damian Piwowarczyk!
 
-A Software Engineer constantly thirsty for new knowledge | Javascript & Typescript enthisiast.
+A Software Engineer | Javascript & Typescript enthisiast.
 Experience with the technologies listed in the below.
 
 
