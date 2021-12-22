@@ -41,7 +41,7 @@ Other:
 <!-- BLOG-POST-LIST:START -->
 - [Multi-tenancy vs Single-tenancy application architecture](https://dev.to/przpiw/multi-tenancy-vs-single-tenancy-4n92)
 - [File upload with React & Express](https://dev.to/przpiw/file-upload-with-react-nodejs-2ho7)
-- [Building Forms with React Form](Reacthttps://dev.to/przpiw/efficient-way-of-building-forms-with-react-hook-form-jop)
+- [Building Forms with React Form](https://dev.to/przpiw/efficient-way-of-building-forms-with-react-hook-form-jop)
 - [Build React forms with Formik](https://dev.to/przpiw/react-formik-build-forms-more-efficiently-37jh)
 - [Elegant React Forms with Formik & TailwindCSS](https://dev.to/przpiw/build-elegant-forms-reactformik-tailwind-54d8)
 <!-- BLOG-POST-LIST:END -->
