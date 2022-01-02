@@ -39,6 +39,7 @@ Other:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Authentication with Next and NextAuth](https://damiandev.com/blog/Build-Authentication-with-NextJS-and-NextAuth)
 - [Multi-tenancy vs Single-tenancy application architecture](https://dev.to/przpiw/multi-tenancy-vs-single-tenancy-4n92)
 - [File upload with React & Express](https://dev.to/przpiw/file-upload-with-react-nodejs-2ho7)
 - [Building Forms with React Form](https://dev.to/przpiw/efficient-way-of-building-forms-with-react-hook-form-jop)
