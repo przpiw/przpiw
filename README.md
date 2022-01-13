@@ -39,6 +39,7 @@ Other:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [React & PDF Rendering](https://dev.to/przpiw/react-pdf-rendering-4g7b)
 - [Building Authentication with Next and NextAuth](https://damiandev.com/blog/Build-Authentication-with-NextJS-and-NextAuth)
 - [Data visualization with React and Nivo](https://damiandev.com/blog/Data-Visualization-with-React-and-Nivo)
 - [Multi-tenancy vs Single-tenancy application architecture](https://dev.to/przpiw/multi-tenancy-vs-single-tenancy-4n92)
