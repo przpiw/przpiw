@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Damian Piwowarczyk!
 
 A Software Engineer | Javascript enthisiast.
-Experience with the technologies listed in the below.
+<!-- Experience with the technologies listed in the below.
 
 
 ---
@@ -33,7 +33,7 @@ Other:
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
-
+ -->
 ---
 
 📘 Latest Blog Articles
